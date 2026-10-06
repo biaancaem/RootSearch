@@ -1,5 +1,4 @@
-# MILITARU Elena-Bianca 324CB
-# Tema 2 - Sistem simplificat de indexare al fisierelor
+# Sistem simplificat de indexare al fisierelor
 Am impartit implementarea in mai multe fisiere pentru a separa mai clar structurile de date, functiile auxiliare si comenzile principale ale programului.
 Fisierul `structuri.h` contine definitiile structurilor folosite in tema: listele de fisiere, listele de cuvinte, listele de referinte, arborele Trie si heap-ul.
 Fisierele header `functiiStructuri.h`, `FunctiiHeap.h` si `comenzi.h` contin antetele functiilor implementate in fisierele sursa corespunzatoare.
