@@ -1,5 +1,3 @@
-# MILITARU Elena-Bianca - 324CB
-
 CC = gcc
 CFLAGS = -Wall -g
 TARGET = search_index
